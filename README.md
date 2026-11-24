@@ -1,6 +1,6 @@
 # Web de La Liga
 
-**Integrantes:** [NOMBRE 1] y [NOMBRE 2]
+**Integrantes:** Ari
 
 **Tema:** La Liga (fútbol español)
 
